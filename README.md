@@ -1,3 +1,6 @@
+Implementation of Chan-Vese Algorithm for the segmentation of images of foreground and background using CUDA on Nvidia GPU.
+
+
 Requirements:
 .NET Framework 4.6(Reccomended)
 
