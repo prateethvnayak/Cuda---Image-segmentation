@@ -1,7 +1,7 @@
 Requirements:
 .NET Framework 4.6(Reccomended)
 
-To Run
+To Run (CUDA 9.0 required)
 
 Launch ImageConverter.exe in Imageconvertor
 
